@@ -1,0 +1,60 @@
+ {
+  "applicants": [
+    {
+      "id": 1,
+      "name": "sa",
+      "email": "madhusir.doe@example.comggdcddds",
+      "contact": "123322",
+      "gender": "female",
+      "linkedin": "https://www.linkedin.com/in/johndoe/",
+      "address": "456 Updated Street, Cityville, Countryland",
+      "resume": "_230530_192806 (1).pdf",
+      "ug_degree": "Master of Science",
+      "ug_college": "IIT",
+      "ug_university": "New XYZ University",
+      "ug_pyear": "2",
+      "ug_cgpa": "2",
+      "ug_certificate": "_1.vectors (2).pdf",
+      "s12_board": "National Board",
+      "s12_school": "Updated School Name",
+      "s12_pyear": "123",
+      "s12_marks": "95%",
+      "s12_certificate": "21_HSMC101.pdf",
+      "s10_board": "Updated Board",
+      "s10_school": "Updated School Name",
+      "s10_pyear": 0,
+      "s10_marks": "12%",
+      "s10_certificate": "https://updated-s10-certificate.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "amdhu123@trainingmug.com",
+      "contact": "+1987654321",
+      "gender": "Female",
+      "linkedin": "https://www.linkedin.com/in/janesmith/",
+      "address": "456 Park Avenue, City, Country",
+      "resume": "https://path-to-resume.com",
+      "ug_degree": "Bachelor of Arts",
+      "ug_college": "DEF College",
+      "ug_university": "UVW University",
+      "ug_pyear": 2023,
+      "ug_cgpa": 9,
+      "ug_certificate": "https://path-to-certificate.com",
+      "s12_board": "National Board",
+      "s12_school": "Some Other School",
+      "s12_pyear": 2019,
+      "s12_marks": "90%",
+      "s12_certificate": "https://path-to-certificate.com",
+      "s10_board": "State Board",
+      "s10_school": "Different School",
+      "s10_pyear": 2017,
+      "s10_marks": "88%",
+      "s10_certificate": "https://path-to-certificate.com"
+    },
+    {
+      "name": "test2",
+      "id": 3
+    }
+  ]
+}
